@@ -1,0 +1,1 @@
+tslint configuration used by @homebots projects

@@ -1,0 +1,26 @@
+{
+  "name": "@homebots/tslint",
+  "version": "1.0.0",
+  "main": "./tslint.json",
+  "author": {
+    "name": "Home Bots",
+    "email": "homebots.inc@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/homebots/tslint/issues"
+  },
+  "dependencies": {
+    "tslint": "^5.8.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "tslint rules used by @homebots projects",
+  "homepage": "https://github.com/homebots/tslint#readme",
+  "keywords": ["tslint"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homebots/tslint.git"
+  }
+}
